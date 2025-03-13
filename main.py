@@ -54,4 +54,4 @@ async def update_channel_names():
             new_name = f"{role_name}Online『{count}』"
             await channel.edit(name=new_name)
 
-bot.run("MTM0ODM1MzY5NTI1NDgzOTM0Nw.G2ngo1.xVtPdVN-HNAN5brmY8xJkxlNKXCMoaMlP153k0")
+bot.run("MTM0ODg1MjQwNDE5NTU1NzQ0Ng.GmGN5J.hiy13KnDNLxVEW3Yx9GBjAQRD7lfrBBU1xIrWY")
